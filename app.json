@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "unemployed-apricot-orca",
+    "slug": "unemployed-apricot-orca",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.unemployedapricotorca" },
+    "scheme": "unemployedapricotorca"
+  }
+}
